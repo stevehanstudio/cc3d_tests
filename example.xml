@@ -1,0 +1,7 @@
+<Potts>
+    <Dimensions x="64" y="36" z="3"/>
+    <Steps>30701</Steps>
+    <FluctuationAmplitude>34.9</FluctuationAmplitude>
+    <NeighborOrder>6</NeighborOrder>
+</Potts>
+
